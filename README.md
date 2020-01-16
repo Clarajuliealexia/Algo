@@ -1,4 +1,4 @@
-Projet d'algorithmique réalisé par Yann-Laurick ABE et Clara BOURGOIN - 2018/2019 - 1A Ensimag
+# Projet d'algorithmique 2018/2019 - 1A Ensimag
 
 Ce fichier a pour vocation de permettre au lecteur d'avoir une vision globale du projet, et de l'organisation des differents fichiers.
 
