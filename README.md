@@ -27,3 +27,12 @@ des performances de nos differents algorithmes.
 ## Utilisation 
 Pour effectuer le test des differentes methodes, il faudra lancer le programme connectes.py avec un fichier texte du type des fichiers exemple_x.pts en argument : ./connectes exemple_x.pts. Cette fonction renverra le resultat de la methode 3.
 Pour afficher les résultats du test de performance sur les differentes methodes, il faut lancer le programme benchmark.py : ./benchmark. Cette fonction va afficher deux graphes de performances : l'un dans un cas moyen et l'autre dans le pire cas c'est a dire quand tous les points sont dans la meme composante connexe. Attention, pour lancer le programme benchmark, il faut ouvrir le fichier source et changer la valeur de PATH_DIR our avoir un affichage correct.
+
+## Author
+Clara Bourgoin
+Yann-Laurick Abe
+
+## License
+This project is licensed under the CC BY-NC-ND 4.0 License - see the [LICENSE.md](LICENSE.md) file for details
+
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
