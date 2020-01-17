@@ -29,8 +29,8 @@ Pour effectuer le test des differentes methodes, il faudra lancer le programme c
 Pour afficher les résultats du test de performance sur les differentes methodes, il faut lancer le programme benchmark.py : ./benchmark. Cette fonction va afficher deux graphes de performances : l'un dans un cas moyen et l'autre dans le pire cas c'est a dire quand tous les points sont dans la meme composante connexe. Attention, pour lancer le programme benchmark, il faut ouvrir le fichier source et changer la valeur de PATH_DIR our avoir un affichage correct.
 
 ## Author
-Clara Bourgoin
-Yann-Laurick Abe
+**Clara Bourgoin**
+**Yann-Laurick Abe**
 
 ## License
 This project is licensed under the CC BY-NC-ND 4.0 License - see the [LICENSE.md](LICENSE.md) file for details
